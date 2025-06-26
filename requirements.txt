@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+librosa
+dash
+flask
+gunicorn
+dash
